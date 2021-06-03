@@ -104,7 +104,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <downloadJavadocs>true</downloadJavadocs>
     <downloadSources>true</downloadSources>
-    <httpclient.version>4.5</httpclient.version>
+    <httpclient.version>4.5.13</httpclient.version>
     <jetty.version>9.3.0.RC0</jetty.version>
   </properties>
 
